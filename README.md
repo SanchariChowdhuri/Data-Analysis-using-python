@@ -1,7 +1,6 @@
-# Data-Analysis-using-python
-
-Automated News Creation from a dataset
+#Automated News Creation from a dataset
 
 
+Writting a template that can produce stories automatically on the issue of fatal shootings by police officers in the US. The code and text will take data from the Washington Post Fatal Police Shooting database and output a written story describing an overview, specifics of a single row of data, and any additional context. 
 
-This news template creates article ,providing an overview of shooting incidents which happened in US since 1st Jan 2015. This automated template generates news based on data provided from single rows of the dataset and with each execution introduces some new feature in the article.
+
