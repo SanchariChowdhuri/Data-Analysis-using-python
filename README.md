@@ -1,3 +1,7 @@
+#Data Analysis
+
+This folder contains code and report for an analysis which was conducted on a large govt dataset as a part od class assignment.
+
 #Automated News Creation from a dataset
 
 
